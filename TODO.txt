@@ -1,0 +1,38 @@
+fonts
+	IM FELL English + french canon
+
+theme
+	f4fdff 
+	05204a
+	6f8695
+	
+
+design
+	
+	description 
+		custom
+		expert advice
+		deliveries
+		welcome (stats, creditbility, pathos)
+			pathos - family owned, local, homey, no commision
+			logos - open date
+			ethos - brands we sell, we make mattresses	
+	names italicised
+	categories sooner
+	change title
+	search
+		put contact near
+	put menu bar under title
+		Mattresses
+			Names
+			Sizes
+			Custom
+		Furniture
+		Neccessities
+	All caps
+
+quotes
+	happiness consists of quality sleep
+	sleep well live well 
+	make youself at home online or in store
+
